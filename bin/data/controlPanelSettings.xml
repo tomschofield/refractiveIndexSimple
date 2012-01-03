@@ -1,0 +1,60 @@
+<CAM_IS_GO>
+    <val_0>0.000000</val_0>
+</CAM_IS_GO>
+<CAM_WIDTH>
+    <val_0>640.000000</val_0>
+</CAM_WIDTH>
+<CAM_HEIGHT>
+    <val_0>480.000000</val_0>
+</CAM_HEIGHT>
+<FRAME_RATE>
+    <val_0>1.000000</val_0>
+</FRAME_RATE>
+<SETTINGS>
+    <val_0>0.000000</val_0>
+</SETTINGS>
+<ANALYSIS_TYPE>
+    <val_0>130.000000</val_0>
+</ANALYSIS_TYPE>
+<SCAN_LINE_WIDTH>
+    <val_0>10.000000</val_0>
+</SCAN_LINE_WIDTH>
+<SCAN_LINE_SPEED>
+    <val_0>10.000000</val_0>
+</SCAN_LINE_SPEED>
+<GRAPH_MAX_RESULT>
+    <val_0>108.244446</val_0>
+</GRAPH_MAX_RESULT>
+<GRAPH_MAX_TIME>
+    <val_0>10.000000</val_0>
+</GRAPH_MAX_TIME>
+<GRAPH_NUM_DIVISIONS>
+    <val_0>10.000000</val_0>
+</GRAPH_NUM_DIVISIONS>
+<SHOW_GRAPH_OUTLINE>
+    <val_0>0.000000</val_0>
+</SHOW_GRAPH_OUTLINE>
+<ANIMATION_TIME_LIMIT>
+    <val_0>10.000000</val_0>
+</ANIMATION_TIME_LIMIT>
+<MORSE_SPEED>
+    <val_0>10.000000</val_0>
+</MORSE_SPEED>
+<RED_LEVEL>
+    <val_0>10.000000</val_0>
+</RED_LEVEL>
+<GREEN_LEVEL>
+    <val_0>10.000000</val_0>
+</GREEN_LEVEL>
+<BLUE_LEVEL>
+    <val_0>10.000000</val_0>
+</BLUE_LEVEL>
+<GRAPH_TYPE>
+    <val_0>130.000000</val_0>
+</GRAPH_TYPE>
+<INPUTS>
+    <val_0>130.000000</val_0>
+</INPUTS>
+<CODECS>
+    <val_0>130.000000</val_0>
+</CODECS>
